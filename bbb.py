@@ -37,7 +37,7 @@ df_shiba = df.loc[5:48, ["実績入力以外の編集禁止", "芝"]]
 # 表にカラム名を名前をつける
 df_enroll.columns = enrollment
 # if school_name_men=='筑駒':
-#     df_tsukukoma.columns = successful_candidate
+# df_tsukukoma.columns = successful_candidate
 
 # school_name_men
 df_tsukukoma.columns = successful_candidate
